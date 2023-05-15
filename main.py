@@ -1,5 +1,6 @@
+#game_tetris
 import pygame
-from copy import deepcopy
+from copy import deepcopy 
 from random import choice, randrange
 
 width, hight = 10, 20
